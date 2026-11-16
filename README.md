@@ -18,12 +18,10 @@ The project analyses 10,000 hospital admission records to uncover meaningful pat
 - [Business Questions Answered](#-business-questions-answered)
 - [Key Insights and Findings](#-key-insights-and-findings)
 - [Dashboard Preview](#-dashboard-preview)
-- [Final Conclusions and Recommendations](#-final-conclusions-and-recommendations)
+- [Final Conclusions](#-final-conclusions)
 - [Project Structure](#-project-structure)
 - [How to Explore This Project](#-how-to-explore-this-project)
-- [Limitations](#-limitations)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [Future Improvements](#-future-improvements)
 
 ---
 
@@ -367,37 +365,35 @@ The final Power BI dashboard brings together the major findings through interact
 
 A high-level summary of the hospital dataset and key performance indicators.
 
-![Project Overview Dashboard](images/project-overview.png)
+![Project Overview](https://raw.githubusercontent.com/Vedant-Ar/Hospital-Data-Analysis-Excel-Power-BI/main/Hospital%20Data%20Analysis/Dashboard%20Images/1_Overview.png)
 
 ### 2. Hospital Overview & Patient Demographics
 
 Visualizes patient demographics, medical conditions, gender distribution, and age-group patterns.
 
-![Patient Demographics Dashboard](images/patient-demographics.png)
+![Patient Demographics](https://raw.githubusercontent.com/Vedant-Ar/Hospital-Data-Analysis-Excel-Power-BI/main/Hospital%20Data%20Analysis/Dashboard%20Images/2_Patient%20Demographics.png)
 
 ### 3. Financial and Insurance Analysis
 
 Presents average billing amounts, insurance provider comparisons, and medical condition-wise financial patterns.
 
-![Financial and Insurance Dashboard](images/financial-analysis.png)
+![Financial Analysis](https://raw.githubusercontent.com/Vedant-Ar/Hospital-Data-Analysis-Excel-Power-BI/main/Hospital%20Data%20Analysis/Dashboard%20Images/3_Financial%20Analysis.png)
 
 ### 4. Patient Admission and Time Trend
 
 Shows year-wise, month-wise, and day-wise admission patterns along with admission-type analysis.
 
-![Admission Trends Dashboard](images/admission-trends.png)
+![Admission Trends](https://raw.githubusercontent.com/Vedant-Ar/Hospital-Data-Analysis-Excel-Power-BI/main/Hospital%20Data%20Analysis/Dashboard%20Images/4_Admission%20Trends.png)
 
 ### 5. Key Insights & Recommendations
 
 Summarizes the major findings and potential operational recommendations.
 
-![Key Insights Dashboard](images/key-insights.png)
-
-> **Note:** Replace the image paths above with your actual dashboard screenshots. Create an `images` folder in your GitHub repository and upload the screenshots there.
+![Key Insights](https://raw.githubusercontent.com/Vedant-Ar/Hospital-Data-Analysis-Excel-Power-BI/main/Hospital%20Data%20Analysis/Dashboard%20Images/5_Key%20Insights.png)
 
 ---
 
-## 🏁 Final Conclusions and Recommendations
+## 🏁 Final Conclusions 
 
 Based on the analysis, the following conclusions were drawn:
 
@@ -412,14 +408,6 @@ Based on the analysis, the following conclusions were drawn:
 5. **Admission patterns:** Monthly admissions are relatively evenly distributed, but certain days of the month show higher recorded admission volumes.
 
 6. **Operational planning:** The elective admission scheduling scenarios demonstrate how shifting planned admissions could potentially help distribute patient footfall more evenly.
-
-### Recommendations
-
-- Monitor admission patterns to support better hospital resource planning.
-- Use demographic analysis to understand the distribution of recorded medical conditions.
-- Investigate billing variations across medical conditions and insurance providers.
-- Evaluate elective admission scheduling using actual hospital capacity and clinical requirements.
-- Combine billing information with insurance coverage and claims data for a more meaningful insurance performance analysis.
 
 ---
 
@@ -450,13 +438,8 @@ Hospital-Data-Analysis/
 │   ├── financial-analysis.png
 │   ├── admission-trends.png
 │   └── key-insights.png
-│
-└── Documentation/
-    └── Project_Notes.md
+
 ```
-
-*The folder and file names above are suggested. Adjust them to match the files you actually upload.*
-
 ---
 
 ## 🧠 Skills Demonstrated
@@ -498,7 +481,7 @@ Hospital-Data-Analysis/
 
 Aspiring Data Analyst | Excel | Power BI | SQL | Python | Data Analytics
 
-[LinkedIn](ADD_YOUR_LINKEDIN_URL) • [GitHub](ADD_YOUR_GITHUB_PROFILE_URL)
+[LinkedIn](ADD_YOUR_LINKEDIN_URL) • [GitHub](https://github.com/Vedant-Ar)
 
 ---
 
